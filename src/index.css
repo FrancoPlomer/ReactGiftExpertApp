@@ -82,7 +82,7 @@ input {
 #inputCategory:focus
 {
   background-color: #000;
-  border-bottom:2px solid  #ff000;
+  border-bottom:2px solid  #ff0000;
 }
 .loaded
 {
